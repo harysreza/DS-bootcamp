@@ -1,0 +1,5 @@
+1. Source Data
+2. Processing -> EDA, Data Analysis, Feuture Engineering
+3. Modeling
+4. Deploy ke production
+5. Monitor Model

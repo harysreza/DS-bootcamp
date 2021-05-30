@@ -1,0 +1,26 @@
+[Forwarded from [Materi/Info] IM Batch 22 Data Science]
+#INFO_FINAL_PROJECT
+
+Halo Pythonista, akhirnya kita berada di akhir agenda Training kita yaitu Final Project.. Ada beberapa SOP yang perlu diperhatikan selama pengerjaan Final project, seperti yang tertulis dibawah ini:
+
+SOP Final Project
+
+1. Final Project berupa kompetisi di kaggle, bisa diakses di website sanbercode.com, pilih Akses 'kelas', kemudian pilih tab 'Materi', Pada Materi pekan 4 pilih Hari 5 » Final project
+
+2. Waktu pelaksanaan  terhitung mulai hari kamis ini  (11 Maret 2021) hingga selesai hari Minggu (14 Maret 2021) pkl 23.59  UTC (estimasi pengerjaan peserta bisa berbeda2, jika sudah selesai dlm waktu sehari ya dipersilahkan saja)
+
+3. Team name pada tab Team diset menggunakan EMAIL yang terdaftar di web sanbercode
+
+4. Teman2 diminta membuat prediksi label price_range pada dataset 'test.csv'.
+
+5. Model yg digunakan bebas.
+
+6. Evaluasi Matriks yg digunakan adalah fmean score.
+
+7. Setelah melakukan prediksi, buatlah sebuah DataFrame yang berisi kolom Index dan price_range, dimana kolom index diambil dr data test['index'] sedangkan kolom price_range berisi hasil prediksi, kemudian ubah DataFrame tersebut menjadi file csv (DataFrame.to_csv), lalu lakukan submission di Kaggle menggunakan file csv tersebut. 
+
+8. Submissions dapat dilakukan sebanyak 5x dalam sehari.
+
+Terimakasih. 
+
+===Selamat Mengerjakan dan Semoga Sukses ✍️✍️✍️====
